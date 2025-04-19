@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir /public
+mkdir /publico
 mkdir /adm
 mkdir /ven
 mkdir /sec
