@@ -30,8 +30,8 @@ echo "Usuários criados"
 chmod 777 /publico
 
 chown root:GRP_ADM /adm
-chgrp root:GRP_VEN /ven
-chgrp root:GRP_SEC /sec
+chown root:GRP_VEN /ven
+chown root:GRP_SEC /sec
 
 chmod 770 /adm
 chmod 770 /ven
